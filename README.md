@@ -190,5 +190,5 @@ Este projeto demonstra:
 ---
 
 **Última atualização**: Abril de 2026  
-**Autor**: Seu Nome  
+**Autor**: SIndivaldo da Silva Soares
 **Status**: ✅ Completo e pronto para produção
