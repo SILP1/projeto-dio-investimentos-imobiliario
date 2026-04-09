@@ -1,4 +1,19 @@
-# 📊 Investimento Imobiliário: Um Guia Estratégico com NotebookLM
+# 📊 Investimento Imobiliário - Estudo Temático
+
+Projeto educacional sobre **Fundos Imobiliários (FIIs)** com:
+
+✅ **3 Níveis de Profundidade** - Básico, Intermediário, Avançado
+✅ **Engenharia de Prompts** - 15+ iterações documentadas
+✅ **25+ Prompts Reutilizáveis** - Prontos para usar
+✅ **50+ Termos Técnicos** - Glossário completo
+✅ **Guias Práticos** - Passo-a-passo executáveis
+
+## 📚 Como Usar
+
+1. **Leia:** MINIGUIA_ESTUDO.md
+2. **Estude:** PROMPTS_E_CICATRIZES.md
+3. **Use:** PROMPTS_REUTILIZAVEIS.md
+4. **Consulte:** GLOSSARIO.md
 
 ## 🎯 Contexto e Objetivos
 
